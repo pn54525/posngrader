@@ -1,0 +1,4 @@
+pete	80
+pea	90
+sho	85
+son	90
